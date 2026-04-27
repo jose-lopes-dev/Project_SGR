@@ -1,0 +1,38 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+.env
+
+# FastAPI
+.pytest_cache/
+
+# Node / Nuxt
+node_modules/
+.nuxt/
+.output/
+dist/
+.data
+.nitro
+.cache
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+
+# Misc
+.DS_Store
+.fleet
+.idea
+
+# Local env files
+.env.*
+
+
